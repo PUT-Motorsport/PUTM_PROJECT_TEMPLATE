@@ -1,6 +1,6 @@
 # STM32CubeIDE
-/firmware/.metadata
-/firmware/.settings
+/firmware/.metadata/
+/firmware/.settings/
 /firmware/[Rr]elease/
 /firmware/[Dd]ebug/
 /firmware/*.launch
