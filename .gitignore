@@ -11,6 +11,10 @@
 /hardware/fp-info-cache
 /hardware/\#auto_saved_files\#
 
+#LTspice
+/documentation/*.log
+/documentation/*.raw
+
 # Interactive HTML BOM
 /hardware/bom/
 
